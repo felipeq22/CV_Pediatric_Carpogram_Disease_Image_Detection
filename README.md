@@ -1,4 +1,4 @@
-# Pediatric_Carpogram_Disease_Image_Detection
+# Computer Vision Pediatric_Carpogram_Disease_Image_Detection
 
 Bone age studies are used to estimate the maturity and capacity of growth of the skeletal system performed in children and young people before reaching the end of the growth process. Carrying out this studies is of great impor- tance and is commonly done in children as bone age can be strongly related to some disorders, such as growth hormone deficiency, hypothyroidism, delays in the arrival of puberty, adrenal gland disorders, Turner’s syndrome and orthopedic and orthodontic problems in some cases. These bone age studies are better the further away from the end of growth they are made, because each time the end of growth ap- proaches, the treatment of injuries related to bone age is more difficult.
 
